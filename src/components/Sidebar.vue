@@ -1,5 +1,4 @@
 <template>
-    <div class="sidebar">
         <div class="sidebar-content">
           <h3><img src="../assets/img/store.png" alt="store"/> Store name <img src="../assets/img/chevron.png" alt="chevron"/></h3>
           <div>
@@ -24,7 +23,6 @@
             </div>
           </div>
         </div>
-    </div>
 </template>
 
 <script>
@@ -39,16 +37,6 @@ export default {
 </script>
 
 <style scoped>
-.sidebar {
-  position: fixed;
-  width: 250px;
-  height: 100%;
-  top: 0;
-  left: -100%;
-  padding-top: 1rem;
-  background: var(--side-bg);
-  color: var(--store-name);
-}
 .sidebar-content {
   padding: 0 0 0 1rem;
 }
@@ -78,13 +66,5 @@ export default {
 }
 .sidebar-inner .payment-list {
   margin-left: 1.7rem;
-}
-@media screen and (min-width: 1000px) {
- .sidebar {
-   width: 250px;
-   left: 0;
-   top: 0;
-   height: 100%;
- }
 }
 </style>

@@ -36,7 +36,6 @@ export default {
 .buttons .btn {
   padding: 0.5rem 0.8rem;
   border: solid 1px var(--store-bg);
-  outline: none;
   border-radius: 3px;
   background: var(--card-bg);
   display: flex;
