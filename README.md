@@ -1,4 +1,14 @@
-# filda-test
+# fidia-test
+
+Frontend Test from a fidia
+
+![Sign Up Page](/src/assets/design/sign-up.jpg)
+![Dashboard](/src/assets/design/dashboard.jpg)
+
+### Useful Link
+
+- [Code]('https://https://github.com/blade-01/fidia-test')
+- [Demo]('https://fidia-test.vercel.app')
 
 ## Project setup
 ```
