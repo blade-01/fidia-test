@@ -7,8 +7,8 @@ Frontend Test from a fidia
 
 ### Useful Link
 
-- [Code]('https://https://github.com/blade-01/fidia-test')
-- [Demo]('https://fidia-test.vercel.app')
+- [Code](https://https://github.com/blade-01/fidia-test)
+- [Demo](https://fidia-test.vercel.app/)
 
 ## Project setup
 ```
